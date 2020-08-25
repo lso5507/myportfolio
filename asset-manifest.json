@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.d23ff07c.chunk.css",
-    "main.js": "/myportfolio/static/js/main.124d8228.chunk.js",
-    "main.js.map": "/myportfolio/static/js/main.124d8228.chunk.js.map",
+    "main.css": "/myportfolio/static/css/main.bfb28366.chunk.css",
+    "main.js": "/myportfolio/static/js/main.d02562cd.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.d02562cd.chunk.js.map",
     "runtime-main.js": "/myportfolio/static/js/runtime-main.b5f0a273.js",
     "runtime-main.js.map": "/myportfolio/static/js/runtime-main.b5f0a273.js.map",
-    "static/js/2.1a4595f1.chunk.js": "/myportfolio/static/js/2.1a4595f1.chunk.js",
-    "static/js/2.1a4595f1.chunk.js.map": "/myportfolio/static/js/2.1a4595f1.chunk.js.map",
+    "static/js/2.6597ef8e.chunk.js": "/myportfolio/static/js/2.6597ef8e.chunk.js",
+    "static/js/2.6597ef8e.chunk.js.map": "/myportfolio/static/js/2.6597ef8e.chunk.js.map",
     "index.html": "/myportfolio/index.html",
-    "precache-manifest.ef69cbe1057a5bb6ee5d4e452303c3a2.js": "/myportfolio/precache-manifest.ef69cbe1057a5bb6ee5d4e452303c3a2.js",
+    "precache-manifest.33d9f9c668424576980b9af208066b40.js": "/myportfolio/precache-manifest.33d9f9c668424576980b9af208066b40.js",
     "service-worker.js": "/myportfolio/service-worker.js",
-    "static/css/main.d23ff07c.chunk.css.map": "/myportfolio/static/css/main.d23ff07c.chunk.css.map",
-    "static/js/2.1a4595f1.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.1a4595f1.chunk.js.LICENSE.txt",
+    "static/css/main.bfb28366.chunk.css.map": "/myportfolio/static/css/main.bfb28366.chunk.css.map",
+    "static/js/2.6597ef8e.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.6597ef8e.chunk.js.LICENSE.txt",
     "static/media/index.css": "/myportfolio/static/media/Asem.a52a00cf.woff",
+    "static/media/DBTABLE.png": "/myportfolio/static/media/DBTABLE.46246a98.png",
+    "static/media/Lee.jpg": "/myportfolio/static/media/Lee.a998e6a6.jpg",
+    "static/media/Webflow.PNG": "/myportfolio/static/media/Webflow.42ed75e7.PNG",
     "static/media/android.gif": "/myportfolio/static/media/android.82f155a1.gif",
     "static/media/hobby.gif": "/myportfolio/static/media/hobby.8d1e6a5b.gif",
-    "static/media/react_moive.PNG": "/myportfolio/static/media/react_moive.cb3f77b3.PNG"
+    "static/media/react_moive.PNG": "/myportfolio/static/media/react_moive.cb3f77b3.PNG",
+    "static/media/react_moive_detail.PNG": "/myportfolio/static/media/react_moive_detail.ece82144.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.b5f0a273.js",
-    "static/js/2.1a4595f1.chunk.js",
-    "static/css/main.d23ff07c.chunk.css",
-    "static/js/main.124d8228.chunk.js"
+    "static/js/2.6597ef8e.chunk.js",
+    "static/css/main.bfb28366.chunk.css",
+    "static/js/main.d02562cd.chunk.js"
   ]
 }
