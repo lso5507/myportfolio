@@ -1,0 +1,171 @@
+.header{
+    margin:0px;
+    font-family: 'MyFont';
+    
+}
+
+@font-face {
+    font-family: 'MyFont';
+    src: local('MyFont'), url(../font/Asem.woff) format('woff');
+  }
+.App{
+    display:flex;
+    flex-direction: column;
+    
+}
+.title-image{
+  width:150px;
+  height: auto;
+  display: inline;
+}
+.header{
+    width:100vw;
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color:gray;
+    font-weight: bold;
+    
+}
+
+.content{
+    width:100vw;
+    margin:0px;
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+    justify-content: center;
+    justify-content: space-around;
+    
+    
+  
+    
+}
+.header h1{
+    font-size: 5rem;
+}
+.myPT{
+  width:100vw;
+  height: 750px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.myPT .imageZone{
+  margin-left: 300px;
+}
+.myPT .record{
+  margin-left:100px;
+  line-height: 50px;
+}
+.record table td{
+  border-bottom:  1px solid;
+  border-right : 1px solid;
+  padding-left: 10px;
+
+}
+.record table td:last-child{
+  border-right: 0px;
+}
+.record table tr:last-child td{
+  border-bottom: 0px;
+}
+.record table{
+  padding:10px;
+  border :1px solid;
+}
+.skil{
+  margin-top:10px;
+  border:1px solid;
+  text-align: center;
+}
+.skil td, th{
+  border-right: 1px solid;
+  border-bottom:1px solid;
+}
+
+.content .image{
+  width:70vw;
+  height: auto;
+  
+
+}
+.content .content-text{
+  display:flex;
+  flex-direction: column;
+}
+.content .image-container{
+  display:flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin-top:200px;
+}
+.content-text img{
+  margin:0 auto;
+}
+title{
+  text-align: center;
+}
+.content-text p{
+  margin-top:70px;
+  
+  font-size:28px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.content span{
+  text-align: center;
+  margin-top:20px;
+}
+.container{
+  
+  
+  flex-direction: column;
+}
+#android img{
+  width:400px;
+  height: auto;
+}
+.title-text{
+  font-size: 6rem;
+  margin-left:80px;
+  font-weight: bold;
+  font-family: 'MyFont';
+  text-align: center;
+  
+  
+}
+.title-contain{
+  margin-top:400px;
+  height: 700px;
+  font-family: 'MyFont';
+}
+.title-contain p{
+  margin-bottom: 0px;;
+}
+.title-contain span{
+  
+  text-align: center;
+  display:block;
+  font-weight: 400px;
+  font-size: 20px;
+  
+}
+.title-contain span:nth-child(0) {
+  color:#6DB33F;
+}
+.title-contain span:nth-child(1){
+  color:"#6DB33F"
+}
+a{
+  text-decoration: none;
+  color:skyblue;
+  font-weight: bold;
+  text-align: center;
+}
